@@ -5,12 +5,14 @@
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../../gradle-4.4.1" />
+        <option name="gradleHome" value="E:/../../gradle-4.4.1" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/backend" />
+            <option value="$PROJECT_DIR$/javaJoke" />
+            <option value="$PROJECT_DIR$/jokeandroidlib" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
