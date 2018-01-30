@@ -3,7 +3,7 @@
     package="com.example.jokeandroidlib">
 
     <application>
-        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".MainJokeLibActivity"></activity>
     </application>
 
 </manifest>
